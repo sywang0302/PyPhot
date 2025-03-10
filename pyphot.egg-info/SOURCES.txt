@@ -94,6 +94,8 @@ pyphot/par/framematch.py
 pyphot/par/parset.py
 pyphot/par/pyphotpar.py
 pyphot/par/util.py
+pyphot/psf/__init__.py
+pyphot/psf/psf.py
 pyphot/query/__init__.py
 pyphot/query/ldac.py
 pyphot/query/ps1query.py
